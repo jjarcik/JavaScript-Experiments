@@ -3,6 +3,6 @@ Over the past few years, my computer has accumulated a lot of experiments and pr
 
 Here it the list:
 
-### SVG scroll and draw line
-### Something next will be here
-
+<strong>Drawing of SVG path by scrolling</strong>
+<br />
+<strong>Video kaleidoscope</strong>
