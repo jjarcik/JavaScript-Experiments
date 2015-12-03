@@ -1,4 +1,4 @@
-# SVG SCROLL LINE
+# SVG scroll line
 
 Drawing SVG Path curve by scroll page
 
