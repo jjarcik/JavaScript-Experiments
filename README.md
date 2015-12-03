@@ -6,3 +6,5 @@ Here it the list:
 <strong>Drawing of SVG path by scrolling</strong>
 <br />
 <strong>Video kaleidoscope</strong>
+<br />
+<strong>Arctangen balls in space</strong>
