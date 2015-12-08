@@ -11,9 +11,9 @@ You can found some 3d models in obj format in folder obj.
 The kernel of 3D engine is based on applications of linear algebra. For more information and more examples in czech, visit: <a href='http://www2.cs.cas.cz/~horcik/Teaching/applications/node1.html'>http://www2.cs.cas.cz/~horcik/Teaching/applications/node1.html</a>
 
 <img src='screenshot3.jpg' alt='' width=600 />
-
+---------
 <img src='screenshot1.jpg' alt='' width=600 />
-
+---------
 <img src='screenshot2.jpg' alt='' width=600 />
 
 
