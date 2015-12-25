@@ -3,3 +3,7 @@
 Drawing SVG Path curve by scroll page
 
 <img src='https://rawgit.com/jjarcik/experiments/master/svg-scroll-line/svg/path.svg' alt='svg path' width='200'/>
+
+# Demo
+
+http://jjarcik.github.io/experiments/svg-scroll-line/
