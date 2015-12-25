@@ -6,7 +6,7 @@ Click on the video to stop or start, move mouse over to rotation.
 <img src="./screenshot.jpg?raw=true" width="150">
 
 # Demo
-http://jjarcik.github.io/experiments/video-kaleidoscope/#loaded
+http://jjarcik.github.io/experiments/video-kaleidoscope/
 
 For a better experience reload the page after the page is loaded.
 
